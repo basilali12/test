@@ -12,14 +12,13 @@ const Success = () => (
     <img className="App-gif" src={kisses} alt="Kisses" />
     {/* Personalized success messages */}
     <p className="App-text-success">
-      You're my favorite movie buddy, my princess, and the one I enjoy every
-      moment with.
+      I like you. I wanted to say this for a while, but I was afraid of rejection. Last night, when you mentioned your engagement plans, it gave me pause. I want to be the guy you're looking for. I'll always be there for you, and I'll be loyal forever. I don't know how to propose or confess my love; I just wrote everything that was in my heart.
     </p>
     <p className="App-text-success">
-      Looking forward to spending Valentine's Day with you, Jocelyn.
+      
     </p>
     {/* Displaying the date of the special moment */}
-    <p className="App-text-date">12/23/2023</p>
+    <p className="App-text-date">29-6-2024</p>
   </div>
 );
 
